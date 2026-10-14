@@ -6,6 +6,7 @@ import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 os.environ["AI_MODE"] = "ollama"
+sys.stdout.reconfigure(encoding="utf-8")
 
 from app import ai  # noqa: E402
 
