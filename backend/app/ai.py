@@ -1,6 +1,8 @@
 """AI adapter. Input is message text ONLY; location never reaches this module."""
 import json
 
+import httpx
+
 from . import config
 
 CATEGORIES = ("CRITICAL", "HIGH", "MODERATE", "UNCLEAR")
@@ -62,8 +64,18 @@ def validate(raw: str) -> dict:
     return d
 
 
-def call_model(text: str) -> str:  # replaced by the Ollama call in phase 2
-    raise AIError("model not configured")
+def call_model(text: str) -> str:
+    """One Ollama chat call (20 s timeout). Sends the message text only."""
+    try:
+        r = httpx.post(config.ollama_url(), timeout=20, json={
+            "model": config.ollama_model(), "stream": False, "format": "json",
+            "options": {"temperature": 0},
+            "messages": [{"role": "system", "content": SYSTEM_PROMPT},
+                         {"role": "user", "content": text}]})
+        r.raise_for_status()
+        return r.json()["message"]["content"]
+    except (httpx.HTTPError, KeyError, ValueError) as e:
+        raise AIError("model call failed") from e
 
 
 def analyze(text: str) -> tuple[str, dict | None]:
