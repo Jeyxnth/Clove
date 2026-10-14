@@ -1,0 +1,1673 @@
+[
+ {
+  "id": "poha",
+  "title": "Kanda Poha",
+  "category": "Breakfast",
+  "timeMinutes": 20,
+  "servings": 2,
+  "description": "Flattened rice cooked with onion, peanuts and turmeric.",
+  "ingredients": [
+   {
+    "name": "Thick poha",
+    "quantity": 200,
+    "unit": "g"
+   },
+   {
+    "name": "Onion, chopped",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Peanuts",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Oil",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Mustard seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Curry leaves",
+    "quantity": 8,
+    "unit": "pcs"
+   },
+   {
+    "name": "Green chilli, chopped",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Turmeric",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Sugar",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Lemon juice",
+    "quantity": 1,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Coriander, chopped",
+    "quantity": 2,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Rinse poha in a colander until soft but not mushy; drain, sprinkle salt, sugar and turmeric and set aside 5 minutes.",
+   "Heat oil, fry peanuts until golden and remove.",
+   "Add mustard seeds; when they pop add curry leaves, green chilli and onion. Cook until onion is soft.",
+   "Add the poha, mix gently and cook covered on low heat for 3 minutes.",
+   "Stir in peanuts, lemon juice and coriander. Serve warm."
+  ]
+ },
+ {
+  "id": "upma",
+  "title": "Rava Upma",
+  "category": "Breakfast",
+  "timeMinutes": 25,
+  "servings": 3,
+  "description": "Savoury semolina porridge tempered with mustard and curry leaves.",
+  "ingredients": [
+   {
+    "name": "Rava (sooji)",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Water",
+    "quantity": 2.5,
+    "unit": "cup"
+   },
+   {
+    "name": "Oil or ghee",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Mustard seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Urad dal",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Onion, chopped",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Green chilli",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Ginger, grated",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Curry leaves",
+    "quantity": 8,
+    "unit": "pcs"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Dry roast rava on low heat for 4 to 5 minutes until fragrant; set aside.",
+   "Heat oil, add mustard seeds and urad dal until golden.",
+   "Add curry leaves, chilli, ginger and onion; cook until onion softens.",
+   "Add water and salt and bring to a rolling boil.",
+   "Lower heat, add rava in a thin stream while stirring to avoid lumps.",
+   "Cover and cook 2 minutes, rest 2 minutes, then fluff and serve."
+  ]
+ },
+ {
+  "id": "idli",
+  "title": "Idli",
+  "category": "Breakfast",
+  "timeMinutes": 45,
+  "servings": 4,
+  "description": "Soft steamed rice and urad dal cakes (uses ready fermented batter).",
+  "ingredients": [
+   {
+    "name": "Idli batter, fermented",
+    "quantity": 3,
+    "unit": "cup"
+   },
+   {
+    "name": "Salt, if batter is unsalted",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Oil for greasing",
+    "quantity": 1,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Grease the idli moulds lightly with oil.",
+   "Stir the batter gently; add salt only if it was not salted before fermenting.",
+   "Fill each mould about three quarters full.",
+   "Steam on medium heat for 10 to 12 minutes.",
+   "Rest 2 minutes, unmould with a wet spoon and serve with chutney or sambar."
+  ]
+ },
+ {
+  "id": "masala-dosa",
+  "title": "Plain Dosa with Potato Masala",
+  "category": "Breakfast",
+  "timeMinutes": 40,
+  "servings": 3,
+  "description": "Crisp rice and dal crepe filled with spiced potato.",
+  "ingredients": [
+   {
+    "name": "Dosa batter, fermented",
+    "quantity": 3,
+    "unit": "cup"
+   },
+   {
+    "name": "Potatoes, boiled",
+    "quantity": 3,
+    "unit": "pcs"
+   },
+   {
+    "name": "Onion, sliced",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Mustard seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Turmeric",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Green chilli",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Curry leaves",
+    "quantity": 8,
+    "unit": "pcs"
+   },
+   {
+    "name": "Oil",
+    "quantity": 4,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Heat 1 tbsp oil, add mustard seeds, curry leaves, chilli and onion; cook until soft.",
+   "Add turmeric, salt and the mashed boiled potatoes with a splash of water; mix and set aside.",
+   "Heat a flat tawa, wipe with oil and pour a ladle of batter, spreading in a thin circle.",
+   "Drizzle a little oil around the edge and cook until golden and crisp.",
+   "Place potato masala in the centre, fold and serve hot."
+  ]
+ },
+ {
+  "id": "aloo-paratha",
+  "title": "Aloo Paratha",
+  "category": "Breakfast",
+  "timeMinutes": 40,
+  "servings": 4,
+  "description": "Whole wheat flatbread stuffed with spiced mashed potato.",
+  "ingredients": [
+   {
+    "name": "Whole wheat flour",
+    "quantity": 2,
+    "unit": "cup"
+   },
+   {
+    "name": "Potatoes, boiled",
+    "quantity": 3,
+    "unit": "pcs"
+   },
+   {
+    "name": "Green chilli, chopped",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Coriander, chopped",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Garam masala",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Red chilli powder",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Ghee or oil",
+    "quantity": 4,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Water",
+    "quantity": 0.75,
+    "unit": "cup"
+   }
+  ],
+  "steps": [
+   "Knead flour with water and 0.5 tsp salt into a soft dough; rest 15 minutes.",
+   "Mash potatoes and mix with chilli, coriander, garam masala, chilli powder and remaining salt.",
+   "Roll a dough ball into a small circle, place filling in the centre, seal and flatten.",
+   "Roll gently into a paratha, dusting with flour as needed.",
+   "Cook on a hot tawa, brushing ghee on both sides until golden spots appear."
+  ]
+ },
+ {
+  "id": "moong-dal-chilla",
+  "title": "Moong Dal Chilla",
+  "category": "Breakfast",
+  "timeMinutes": 25,
+  "servings": 2,
+  "description": "Savoury lentil pancakes made from a quick soaked batter.",
+  "ingredients": [
+   {
+    "name": "Split moong dal, soaked 3 hours",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Green chilli",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Ginger",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Cumin seeds",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Onion, finely chopped",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Coriander, chopped",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 0.75,
+    "unit": "tsp"
+   },
+   {
+    "name": "Oil",
+    "quantity": 2,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Drain the dal and grind with chilli, ginger, cumin and a little water to a pourable batter.",
+   "Mix in salt, onion and coriander.",
+   "Spread a ladle of batter thinly on a hot greased tawa.",
+   "Cook until the underside is golden, drizzle oil, flip and cook the other side.",
+   "Serve with green chutney."
+  ]
+ },
+ {
+  "id": "toor-dal",
+  "title": "Tadka Toor Dal",
+  "category": "Dal & Curries",
+  "timeMinutes": 35,
+  "servings": 4,
+  "description": "Everyday yellow dal finished with a ghee and cumin tempering.",
+  "ingredients": [
+   {
+    "name": "Toor dal",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Water",
+    "quantity": 3.5,
+    "unit": "cup"
+   },
+   {
+    "name": "Turmeric",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Tomato, chopped",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "Ghee",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Cumin seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Garlic, sliced",
+    "quantity": 4,
+    "unit": "pcs"
+   },
+   {
+    "name": "Dry red chilli",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Asafoetida",
+    "quantity": 0.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "Red chilli powder",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Coriander, chopped",
+    "quantity": 2,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Rinse dal and pressure cook with water, turmeric, tomato and salt for 4 whistles.",
+   "Mash the cooked dal lightly and add hot water if too thick; simmer 5 minutes.",
+   "Heat ghee, add cumin, then garlic, dry chillies and asafoetida until the garlic turns golden.",
+   "Add chilli powder off the heat and pour the tempering over the dal.",
+   "Garnish with coriander and serve with rice or roti."
+  ]
+ },
+ {
+  "id": "rajma",
+  "title": "Rajma Masala",
+  "category": "Dal & Curries",
+  "timeMinutes": 60,
+  "servings": 4,
+  "description": "Kidney beans in a thick onion-tomato gravy, a North Indian favourite.",
+  "ingredients": [
+   {
+    "name": "Rajma, soaked overnight",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Onion, chopped",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Tomato, pureed",
+    "quantity": 3,
+    "unit": "pcs"
+   },
+   {
+    "name": "Ginger-garlic paste",
+    "quantity": 1,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Oil",
+    "quantity": 3,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Cumin seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Coriander powder",
+    "quantity": 2,
+    "unit": "tsp"
+   },
+   {
+    "name": "Red chilli powder",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Garam masala",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Water",
+    "quantity": 3,
+    "unit": "cup"
+   }
+  ],
+  "steps": [
+   "Pressure cook soaked rajma with salt and 3 cups water for 6 to 7 whistles until very soft.",
+   "Heat oil, add cumin, then onions and cook until golden brown.",
+   "Add ginger-garlic paste for a minute, then tomato puree, coriander and chilli powder; cook until oil separates.",
+   "Add the cooked rajma with its liquid and simmer 15 minutes, mashing a few beans to thicken.",
+   "Stir in garam masala and serve with rice."
+  ]
+ },
+ {
+  "id": "chole",
+  "title": "Chole",
+  "category": "Dal & Curries",
+  "timeMinutes": 60,
+  "servings": 4,
+  "description": "Spiced chickpea curry with a tangy tomato base.",
+  "ingredients": [
+   {
+    "name": "Chickpeas, soaked overnight",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Onion, chopped",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Tomato, pureed",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Ginger-garlic paste",
+    "quantity": 1,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Oil",
+    "quantity": 3,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Cumin seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Chole masala",
+    "quantity": 2,
+    "unit": "tsp"
+   },
+   {
+    "name": "Red chilli powder",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Turmeric",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Tea bag (optional, for colour)",
+    "quantity": 1,
+    "unit": "pcs"
+   }
+  ],
+  "steps": [
+   "Pressure cook chickpeas with salt, turmeric and the tea bag for 8 to 10 whistles until soft; discard the tea bag.",
+   "Heat oil, add cumin and onions; cook until deep golden.",
+   "Add ginger-garlic paste, then tomato puree, chilli powder and chole masala; cook until oil separates.",
+   "Add chickpeas with some cooking water and simmer 15 minutes.",
+   "Mash a few chickpeas to thicken; serve with bhature, roti or rice."
+  ]
+ },
+ {
+  "id": "palak-paneer",
+  "title": "Palak Paneer",
+  "category": "Dal & Curries",
+  "timeMinutes": 35,
+  "servings": 3,
+  "description": "Paneer cubes in a smooth spiced spinach gravy.",
+  "ingredients": [
+   {
+    "name": "Spinach",
+    "quantity": 400,
+    "unit": "g"
+   },
+   {
+    "name": "Paneer, cubed",
+    "quantity": 200,
+    "unit": "g"
+   },
+   {
+    "name": "Onion, chopped",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Tomato, chopped",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Ginger-garlic paste",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Green chilli",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Oil or ghee",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Cumin seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Garam masala",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Cream (optional)",
+    "quantity": 2,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Blanch spinach with green chillies in boiling water for 2 minutes, then cool in cold water and blend to a smooth puree.",
+   "Heat oil, add cumin, onion and ginger-garlic paste; cook until golden.",
+   "Add tomato and salt and cook until soft.",
+   "Pour in the spinach puree and simmer 5 minutes without covering to keep the colour.",
+   "Add paneer and garam masala, simmer 3 minutes, finish with cream and serve."
+  ]
+ },
+ {
+  "id": "aloo-gobi",
+  "title": "Aloo Gobi",
+  "category": "Dal & Curries",
+  "timeMinutes": 35,
+  "servings": 3,
+  "description": "Dry potato and cauliflower sabzi with turmeric and cumin.",
+  "ingredients": [
+   {
+    "name": "Cauliflower florets",
+    "quantity": 300,
+    "unit": "g"
+   },
+   {
+    "name": "Potatoes, cubed",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Onion, chopped",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Tomato, chopped",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Oil",
+    "quantity": 3,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Cumin seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Turmeric",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Coriander powder",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Red chilli powder",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Ginger, grated",
+    "quantity": 1,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Heat oil, add cumin and ginger, then onion; cook until light golden.",
+   "Add tomato and the powdered spices and cook until the oil separates.",
+   "Add potatoes, cauliflower and salt; mix well.",
+   "Cover and cook on low heat 15 to 20 minutes, stirring occasionally, until tender.",
+   "Uncover and cook 2 minutes to dry out; garnish with coriander."
+  ]
+ },
+ {
+  "id": "jeera-rice",
+  "title": "Jeera Rice",
+  "category": "Rice",
+  "timeMinutes": 25,
+  "servings": 3,
+  "description": "Basmati rice flavoured with ghee-fried cumin.",
+  "ingredients": [
+   {
+    "name": "Basmati rice",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Water",
+    "quantity": 2,
+    "unit": "cup"
+   },
+   {
+    "name": "Ghee",
+    "quantity": 1,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Cumin seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Bay leaf",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Salt",
+    "quantity": 0.75,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Rinse rice until the water runs clear and soak 20 minutes; drain.",
+   "Heat ghee, add cumin and bay leaf until the cumin sizzles.",
+   "Add the rice and fry gently for a minute.",
+   "Add water and salt, bring to a boil, cover and cook on lowest heat for 12 minutes.",
+   "Rest 5 minutes covered, then fluff with a fork."
+  ]
+ },
+ {
+  "id": "vegetable-pulao",
+  "title": "Vegetable Pulao",
+  "category": "Rice",
+  "timeMinutes": 35,
+  "servings": 4,
+  "description": "Fragrant one-pot rice with mixed vegetables and whole spices.",
+  "ingredients": [
+   {
+    "name": "Basmati rice",
+    "quantity": 1.5,
+    "unit": "cup"
+   },
+   {
+    "name": "Mixed vegetables (carrot, beans, peas)",
+    "quantity": 1.5,
+    "unit": "cup"
+   },
+   {
+    "name": "Onion, sliced",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Ghee or oil",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Cinnamon stick",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Cloves",
+    "quantity": 3,
+    "unit": "pcs"
+   },
+   {
+    "name": "Cardamom pods",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Bay leaf",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Ginger-garlic paste",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "Water",
+    "quantity": 3,
+    "unit": "cup"
+   }
+  ],
+  "steps": [
+   "Rinse and soak rice for 20 minutes; drain.",
+   "Heat ghee, add whole spices and onion; fry until golden.",
+   "Add ginger-garlic paste and vegetables; cook 3 minutes.",
+   "Add rice, water and salt and bring to a boil.",
+   "Cover and cook on low heat for 12 to 15 minutes until the water is absorbed; rest 5 minutes and fluff."
+  ]
+ },
+ {
+  "id": "curd-rice",
+  "title": "Curd Rice",
+  "category": "Rice",
+  "timeMinutes": 20,
+  "servings": 2,
+  "description": "Cooling South Indian rice mixed with yogurt and a light tempering.",
+  "ingredients": [
+   {
+    "name": "Cooked rice, soft",
+    "quantity": 2,
+    "unit": "cup"
+   },
+   {
+    "name": "Curd (plain yogurt)",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Milk",
+    "quantity": 0.25,
+    "unit": "cup"
+   },
+   {
+    "name": "Salt",
+    "quantity": 0.75,
+    "unit": "tsp"
+   },
+   {
+    "name": "Oil",
+    "quantity": 1,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Mustard seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Urad dal",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Green chilli",
+    "quantity": 1,
+    "unit": "pcs"
+   },
+   {
+    "name": "Ginger, grated",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Curry leaves",
+    "quantity": 6,
+    "unit": "pcs"
+   }
+  ],
+  "steps": [
+   "Mash the warm rice slightly and let it cool.",
+   "Mix in curd, milk and salt until creamy.",
+   "Heat oil, add mustard seeds, urad dal until golden, then chilli, ginger and curry leaves.",
+   "Pour the tempering over the rice and mix.",
+   "Serve at room temperature or chilled with pickle."
+  ]
+ },
+ {
+  "id": "lemon-rice",
+  "title": "Lemon Rice",
+  "category": "Rice",
+  "timeMinutes": 20,
+  "servings": 2,
+  "description": "Tangy turmeric rice with peanuts and curry leaves.",
+  "ingredients": [
+   {
+    "name": "Cooked rice, cooled",
+    "quantity": 2,
+    "unit": "cup"
+   },
+   {
+    "name": "Lemon juice",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Oil",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Mustard seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Chana dal",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Peanuts",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Green chilli",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Curry leaves",
+    "quantity": 8,
+    "unit": "pcs"
+   },
+   {
+    "name": "Turmeric",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1,
+    "unit": "tsp"
+   }
+  ],
+  "steps": [
+   "Heat oil, add mustard seeds, chana dal and peanuts; fry until golden.",
+   "Add chillies, curry leaves and turmeric.",
+   "Add the rice and salt and toss gently on low heat for 2 minutes.",
+   "Turn off the heat and stir in lemon juice.",
+   "Serve with papad or raita."
+  ]
+ },
+ {
+  "id": "chapati",
+  "title": "Phulka (Chapati)",
+  "category": "Rotis & Breads",
+  "timeMinutes": 30,
+  "servings": 4,
+  "description": "Soft, puffed everyday whole wheat flatbread.",
+  "ingredients": [
+   {
+    "name": "Whole wheat flour (atta)",
+    "quantity": 2,
+    "unit": "cup"
+   },
+   {
+    "name": "Water",
+    "quantity": 0.75,
+    "unit": "cup"
+   },
+   {
+    "name": "Salt",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Oil",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Ghee for serving",
+    "quantity": 1,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Mix flour and salt, add water gradually and knead a soft dough; add oil and rest 20 minutes.",
+   "Divide into equal balls and roll each into a thin circle, dusting with flour.",
+   "Cook on a hot tawa for 20 seconds until bubbles form, then flip.",
+   "Cook the other side, then place directly on a flame (or press with a cloth) so it puffs.",
+   "Brush with ghee and keep covered."
+  ]
+ },
+ {
+  "id": "puri",
+  "title": "Puri",
+  "category": "Rotis & Breads",
+  "timeMinutes": 30,
+  "servings": 4,
+  "description": "Deep-fried puffed wheat bread served with potato sabzi.",
+  "ingredients": [
+   {
+    "name": "Whole wheat flour",
+    "quantity": 2,
+    "unit": "cup"
+   },
+   {
+    "name": "Semolina (rava)",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Water",
+    "quantity": 0.5,
+    "unit": "cup"
+   },
+   {
+    "name": "Oil for frying",
+    "quantity": 2,
+    "unit": "cup"
+   }
+  ],
+  "steps": [
+   "Mix flour, rava and salt, then knead a stiff dough with water; rest 20 minutes.",
+   "Roll small balls into 4 inch circles of even thickness.",
+   "Heat oil until a pinch of dough rises quickly.",
+   "Slide in a puri and press gently so it puffs; fry until golden on both sides.",
+   "Drain on paper and serve hot."
+  ]
+ },
+ {
+  "id": "methi-thepla",
+  "title": "Methi Thepla",
+  "category": "Rotis & Breads",
+  "timeMinutes": 35,
+  "servings": 4,
+  "description": "Gujarati fenugreek flatbread that keeps well for travel.",
+  "ingredients": [
+   {
+    "name": "Whole wheat flour",
+    "quantity": 2,
+    "unit": "cup"
+   },
+   {
+    "name": "Fresh methi leaves, chopped",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Curd",
+    "quantity": 0.25,
+    "unit": "cup"
+   },
+   {
+    "name": "Turmeric",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Red chilli powder",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Ginger-garlic paste",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Sesame seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Oil",
+    "quantity": 4,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Mix flour, methi, curd, spices, salt, sesame and 1 tbsp oil.",
+   "Knead a soft dough with a little water; rest 15 minutes.",
+   "Roll thin circles from small balls.",
+   "Cook on a hot tawa, brushing oil on both sides, until brown spots appear.",
+   "Serve with curd or pickle."
+  ]
+ },
+ {
+  "id": "samosa",
+  "title": "Aloo Samosa",
+  "category": "Snacks",
+  "timeMinutes": 60,
+  "servings": 6,
+  "description": "Crisp pastry triangles filled with spiced potato and peas.",
+  "ingredients": [
+   {
+    "name": "Maida (refined flour)",
+    "quantity": 2,
+    "unit": "cup"
+   },
+   {
+    "name": "Oil, for the dough",
+    "quantity": 4,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Potatoes, boiled",
+    "quantity": 3,
+    "unit": "pcs"
+   },
+   {
+    "name": "Green peas",
+    "quantity": 0.5,
+    "unit": "cup"
+   },
+   {
+    "name": "Cumin seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Coriander powder",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Garam masala",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Amchur (dry mango powder)",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Green chilli",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Oil for frying",
+    "quantity": 2,
+    "unit": "cup"
+   }
+  ],
+  "steps": [
+   "Rub 4 tbsp oil and 0.5 tsp salt into the flour, knead a stiff dough with water and rest 30 minutes.",
+   "Heat 1 tbsp oil, add cumin, peas, chilli and spices; mix in the mashed potato and remaining salt for the filling. Cool.",
+   "Roll a ball into an oval, cut in half, shape each half into a cone, fill and seal the edge with water.",
+   "Fry on low-medium heat for 10 to 12 minutes until golden and crisp.",
+   "Serve with green chutney."
+  ]
+ },
+ {
+  "id": "pakora",
+  "title": "Onion Pakora",
+  "category": "Snacks",
+  "timeMinutes": 25,
+  "servings": 4,
+  "description": "Crunchy gram flour fritters, ideal with tea on a rainy day.",
+  "ingredients": [
+   {
+    "name": "Besan (gram flour)",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Onion, thinly sliced",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Green chilli, chopped",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Ajwain (carom seeds)",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Red chilli powder",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Coriander, chopped",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Water",
+    "quantity": 0.25,
+    "unit": "cup"
+   },
+   {
+    "name": "Oil for frying",
+    "quantity": 2,
+    "unit": "cup"
+   }
+  ],
+  "steps": [
+   "Mix onions with salt and let sit 5 minutes to release water.",
+   "Add besan, chilli, ajwain, chilli powder and coriander; add just enough water to bind a thick batter.",
+   "Heat oil on medium.",
+   "Drop small spoonfuls into the oil and fry until golden and crisp, turning occasionally.",
+   "Drain on paper and serve hot."
+  ]
+ },
+ {
+  "id": "dhokla",
+  "title": "Khaman Dhokla",
+  "category": "Snacks",
+  "timeMinutes": 35,
+  "servings": 4,
+  "description": "Light, spongy steamed gram flour cake with a mustard tempering.",
+  "ingredients": [
+   {
+    "name": "Besan (gram flour)",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Curd",
+    "quantity": 0.25,
+    "unit": "cup"
+   },
+   {
+    "name": "Water",
+    "quantity": 0.75,
+    "unit": "cup"
+   },
+   {
+    "name": "Ginger-green chilli paste",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Turmeric",
+    "quantity": 0.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "Sugar",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 0.75,
+    "unit": "tsp"
+   },
+   {
+    "name": "Eno fruit salt",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Oil",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Mustard seeds",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Curry leaves",
+    "quantity": 6,
+    "unit": "pcs"
+   }
+  ],
+  "steps": [
+   "Whisk besan, curd, water, paste, turmeric, sugar and salt into a smooth batter; rest 10 minutes.",
+   "Grease a plate and prepare a steamer.",
+   "Add Eno and 1 tbsp water, stir lightly once until frothy and pour immediately into the plate.",
+   "Steam covered for 12 to 15 minutes until a toothpick comes out clean.",
+   "Cool, cut into squares and pour over a tempering of hot oil, mustard seeds and curry leaves."
+  ]
+ },
+ {
+  "id": "suji-halwa",
+  "title": "Suji Halwa",
+  "category": "Sweets",
+  "timeMinutes": 20,
+  "servings": 4,
+  "description": "Quick semolina pudding roasted in ghee with sugar and cardamom.",
+  "ingredients": [
+   {
+    "name": "Rava (sooji)",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Ghee",
+    "quantity": 0.5,
+    "unit": "cup"
+   },
+   {
+    "name": "Sugar",
+    "quantity": 0.75,
+    "unit": "cup"
+   },
+   {
+    "name": "Water",
+    "quantity": 2,
+    "unit": "cup"
+   },
+   {
+    "name": "Cardamom powder",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Cashews and raisins",
+    "quantity": 2,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Boil water with sugar and cardamom until the sugar dissolves; keep hot.",
+   "Heat ghee, fry cashews and raisins and set aside.",
+   "In the same ghee roast rava on low heat for 6 to 8 minutes until fragrant and light brown.",
+   "Carefully pour in the hot syrup (it will splutter) while stirring.",
+   "Cook until thick and the ghee leaves the sides; mix in cashews and raisins."
+  ]
+ },
+ {
+  "id": "kheer",
+  "title": "Rice Kheer",
+  "category": "Sweets",
+  "timeMinutes": 50,
+  "servings": 4,
+  "description": "Creamy milk and rice pudding scented with cardamom.",
+  "ingredients": [
+   {
+    "name": "Basmati rice",
+    "quantity": 0.25,
+    "unit": "cup"
+   },
+   {
+    "name": "Full-fat milk",
+    "quantity": 1,
+    "unit": "L"
+   },
+   {
+    "name": "Sugar",
+    "quantity": 0.5,
+    "unit": "cup"
+   },
+   {
+    "name": "Cardamom powder",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Almonds and pistachios, sliced",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Saffron strands (optional)",
+    "quantity": 1,
+    "unit": "pinch"
+   }
+  ],
+  "steps": [
+   "Rinse rice and soak for 20 minutes; drain.",
+   "Bring milk to a boil in a heavy pan, then add the rice.",
+   "Simmer on low heat for 35 to 40 minutes, stirring often so it does not stick, until thick and the rice is very soft.",
+   "Add sugar and cardamom and cook 5 more minutes.",
+   "Stir in nuts and saffron; serve warm or chilled."
+  ]
+ },
+ {
+  "id": "coconut-chutney",
+  "title": "Coconut Chutney",
+  "category": "Chutneys",
+  "timeMinutes": 10,
+  "servings": 4,
+  "description": "Fresh coconut chutney to serve with idli and dosa.",
+  "ingredients": [
+   {
+    "name": "Grated coconut",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Roasted chana dal",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Green chilli",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Ginger",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 0.75,
+    "unit": "tsp"
+   },
+   {
+    "name": "Water",
+    "quantity": 0.5,
+    "unit": "cup"
+   },
+   {
+    "name": "Oil",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Mustard seeds",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Curry leaves",
+    "quantity": 5,
+    "unit": "pcs"
+   }
+  ],
+  "steps": [
+   "Grind coconut, chana dal, chilli, ginger and salt with water to a smooth chutney.",
+   "Transfer to a bowl.",
+   "Heat oil, add mustard seeds and curry leaves until they crackle.",
+   "Pour the tempering over the chutney and serve."
+  ]
+ },
+ {
+  "id": "green-chutney",
+  "title": "Coriander-Mint Chutney",
+  "category": "Chutneys",
+  "timeMinutes": 10,
+  "servings": 6,
+  "description": "Bright, tangy green chutney for samosa, pakora and sandwiches.",
+  "ingredients": [
+   {
+    "name": "Coriander leaves",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Mint leaves",
+    "quantity": 0.5,
+    "unit": "cup"
+   },
+   {
+    "name": "Green chilli",
+    "quantity": 2,
+    "unit": "pcs"
+   },
+   {
+    "name": "Ginger",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Lemon juice",
+    "quantity": 2,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Cumin seeds",
+    "quantity": 0.5,
+    "unit": "tsp"
+   },
+   {
+    "name": "Salt",
+    "quantity": 0.75,
+    "unit": "tsp"
+   },
+   {
+    "name": "Water",
+    "quantity": 3,
+    "unit": "tbsp"
+   }
+  ],
+  "steps": [
+   "Wash the herbs well.",
+   "Blend everything with the water to a smooth paste.",
+   "Taste and adjust salt and lemon.",
+   "Store in the fridge and use within 3 days."
+  ]
+ },
+ {
+  "id": "masala-chai",
+  "title": "Masala Chai",
+  "category": "Beverages",
+  "timeMinutes": 10,
+  "servings": 2,
+  "description": "Strong milk tea simmered with ginger and cardamom.",
+  "ingredients": [
+   {
+    "name": "Water",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Milk",
+    "quantity": 1,
+    "unit": "cup"
+   },
+   {
+    "name": "Tea leaves (CTC)",
+    "quantity": 2,
+    "unit": "tsp"
+   },
+   {
+    "name": "Sugar",
+    "quantity": 2,
+    "unit": "tsp"
+   },
+   {
+    "name": "Ginger, crushed",
+    "quantity": 1,
+    "unit": "tsp"
+   },
+   {
+    "name": "Cardamom pods, crushed",
+    "quantity": 2,
+    "unit": "pcs"
+   }
+  ],
+  "steps": [
+   "Boil water with ginger and cardamom for 2 minutes.",
+   "Add tea leaves and simmer 1 minute.",
+   "Add milk and sugar and bring to a boil, watching it does not overflow.",
+   "Simmer 2 minutes for a deeper colour, then strain into cups."
+  ]
+ },
+ {
+  "id": "sweet-lassi",
+  "title": "Sweet Lassi",
+  "category": "Beverages",
+  "timeMinutes": 5,
+  "servings": 2,
+  "description": "Thick, chilled yogurt drink with cardamom.",
+  "ingredients": [
+   {
+    "name": "Curd (plain yogurt)",
+    "quantity": 1.5,
+    "unit": "cup"
+   },
+   {
+    "name": "Cold water or milk",
+    "quantity": 0.5,
+    "unit": "cup"
+   },
+   {
+    "name": "Sugar",
+    "quantity": 3,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Cardamom powder",
+    "quantity": 0.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "Ice cubes",
+    "quantity": 4,
+    "unit": "pcs"
+   }
+  ],
+  "steps": [
+   "Add curd, sugar, cardamom and cold water or milk to a blender.",
+   "Blend until frothy.",
+   "Pour over ice and serve immediately."
+  ]
+ },
+ {
+  "id": "nimbu-pani",
+  "title": "Nimbu Pani",
+  "category": "Beverages",
+  "timeMinutes": 5,
+  "servings": 2,
+  "description": "Fresh salted lemonade, a summer cooler.",
+  "ingredients": [
+   {
+    "name": "Lemon juice",
+    "quantity": 4,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Cold water",
+    "quantity": 2,
+    "unit": "cup"
+   },
+   {
+    "name": "Sugar",
+    "quantity": 3,
+    "unit": "tbsp"
+   },
+   {
+    "name": "Black salt",
+    "quantity": 0.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "Roasted cumin powder",
+    "quantity": 0.25,
+    "unit": "tsp"
+   },
+   {
+    "name": "Mint leaves",
+    "quantity": 6,
+    "unit": "pcs"
+   }
+  ],
+  "steps": [
+   "Stir sugar and salt into cold water until dissolved.",
+   "Add lemon juice and cumin powder.",
+   "Crush the mint lightly and add.",
+   "Serve over ice."
+  ]
+ }
+]

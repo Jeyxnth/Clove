@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">रसोई</string>
+
+    <string name="nav_home">होम</string>
+    <string name="nav_search">खोजें</string>
+    <string name="nav_favourites">पसंदीदा</string>
+    <string name="nav_settings">सेटिंग्स</string>
+    <string name="back">वापस</string>
+    <string name="featured">खास रेसिपी</string>
+    <string name="categories">श्रेणियाँ</string>
+    <string name="search_hint">रेसिपी या सामग्री खोजें</string>
+    <string name="no_results">कोई रेसिपी नहीं मिली</string>
+    <string name="no_favourites">रेसिपी सहेजने के लिए दिल पर टैप करें</string>
+    <string name="ingredients">सामग्री</string>
+    <string name="steps">विधि</string>
+    <string name="servings">परोसने की संख्या</string>
+    <string name="minutes">%1$d मिनट</string>
+    <string name="serves">%1$d लोगों के लिए</string>
+    <string name="fav_add">पसंदीदा में जोड़ें</string>
+    <string name="fav_remove">पसंदीदा से हटाएँ</string>
+    <string name="decrease">कम लोग</string>
+    <string name="increase">ज़्यादा लोग</string>
+    <string name="settings_theme">थीम</string>
+    <string name="theme_system">सिस्टम डिफ़ॉल्ट</string>
+    <string name="theme_light">हल्की</string>
+    <string name="theme_dark">गहरी</string>
+    <string name="settings_units">माप</string>
+    <string name="units_ml">चम्मच और कप को मिलीलीटर में दिखाएँ</string>
+    <string name="about">जानकारी</string>
+    <string name="about_text">रोज़ के भारतीय घरेलू खाने की रेसिपी का संग्रह। बिना इंटरनेट के चलता है। कोई विज्ञापन या खाता नहीं।</string>
+
+    <string name="c_hint">कुछ शब्द ही काफ़ी हैं</string>
+    <string name="c_counter">%1$d / %2$d</string>
+    <string name="c_continue">आगे बढ़ें</string>
+    <string name="quick_exit">तुरंत बाहर</string>
+    <string name="options">विकल्प</string>
+    <string name="call_112">112 पर कॉल करें</string>
+    <string name="call_181">181 पर कॉल करें</string>
+    <string name="urgent_112">अगर यह ज़रूरी है, तो 112 पर कॉल करें।</string>
+
+    <string name="s_title">शुरू करने से पहले</string>
+    <string name="s_loc_title">मेरी लोकेशन साझा करें</string>
+    <string name="s_loc_body">डिफ़ॉल्ट रूप से बंद। चालू करने पर भेजते समय एक बार आपकी लोकेशन ली जाती है और रिपोर्ट के साथ जुड़ती है। यह कभी AI को नहीं भेजी जाती।</string>
+    <string name="s_loc_denied">लोकेशन की अनुमति नहीं मिली है, इसलिए लोकेशन नहीं जुड़ेगी।</string>
+    <string name="s_contact_title">भरोसेमंद संपर्क</string>
+    <string name="s_contact_body">केवल अगर आप चाहें। पक्का न हो तो बंद रखें।</string>
+    <string name="s_contact_name">नाम</string>
+    <string name="s_contact_phone">फ़ोन नंबर</string>
+    <string name="s_contact_text">संपर्क के लिए संदेश</string>
+    <string name="s_contact_loc">उस संदेश में मेरी लोकेशन शामिल करें</string>
+    <string name="s_contact_demo">इस डेमो बिल्ड में संपर्क को सूचना सिर्फ़ दिखावटी (सिम्युलेटेड) है। कोई असली संदेश नहीं भेजा जाता।</string>
+    <string name="s_save">सहेजें और आगे बढ़ें</string>
+    <string name="s_erase">ये चुनाव मिटाएँ</string>
+    <string name="s_close">बंद करें</string>
+
+    <string name="k_title">भेजने से पहले जाँचें</string>
+    <string name="k_words">यह भेजने की कोशिश की जाएगी: आपके शब्द, जैसे लिखे हैं</string>
+    <string name="k_words_loc">यह भेजने की कोशिश की जाएगी: आपके शब्द, जैसे लिखे हैं, और आपकी लोकेशन</string>
+    <string name="k_to">किसे: %1$s</string>
+    <string name="k_ai">आपके शब्द एक AI मॉडल (%1$s) से भी प्रोसेस होते हैं ताकि उत्तरदाताओं के लिए सारांश बन सके।</string>
+    <string name="k_contact_sim">सिम्युलेटेड: आपके भरोसेमंद संपर्क को संदेश (इस बिल्ड में असल में नहीं भेजा जाता)</string>
+    <string name="k_contact_real">साथ में: आपके फ़ोन से %1$s को एक टेक्स्ट संदेश</string>
+    <string name="k_no_guarantee">भेजने से यह पक्का नहीं होता कि किसी को मिलेगा या मदद आएगी। अगर यह ज़रूरी है, तो 112 पर कॉल करें।</string>
+    <string name="k_send">भेजें</string>
+    <string name="k_edit">बदलें</string>
+
+    <string name="t_chip">सिम्युलेशन</string>
+    <string name="t_sending">भेजा जा रहा है… (कोशिश %1$d)</string>
+    <string name="t_sent">डेमो सिस्टम में जमा हुआ</string>
+    <string name="t_received">सिम्युलेटेड: प्राप्त</string>
+    <string name="t_ack">सिम्युलेटेड: स्वीकार किया गया</string>
+    <string name="t_pending">पुष्टि नहीं हुई। अगर यह ज़रूरी है, तो 112 पर कॉल करें।</string>
+    <string name="t_failed">भेजना विफल रहा। अगर यह ज़रूरी है, तो 112 पर कॉल करें।</string>
+    <string name="t_retry">फिर कोशिश करें</string>
+    <string name="t_loc_yes">लोकेशन जोड़ी गई</string>
+    <string name="t_loc_no">लोकेशन नहीं जोड़ी गई</string>
+    <string name="t_contact_sim">सिम्युलेटेड: आपके भरोसेमंद संपर्क को सूचित किया जाता। कोई संदेश नहीं भेजा गया।</string>
+    <string name="t_contact_net">आपके भरोसेमंद संपर्क को टेक्स्ट संदेश आपके मोबाइल नेटवर्क को सौंप दिया गया।</string>
+    <string name="t_contact_fail">भरोसेमंद संपर्क को टेक्स्ट संदेश नहीं भेजा जा सका।</string>
+    <string name="t_interrupted">यह बीच में रुक गया। अगर यह ज़रूरी है, तो 112 पर कॉल करें।</string>
+
+    <string name="m_offer">इसके बजाय SMS से भेजें</string>
+    <string name="m_not_configured">SMS बैकअप सेट नहीं है</string>
+    <string name="m_confirm_title">SMS से भेजें?</string>
+    <string name="m_confirm_body">आपका फ़ोन आपके मोबाइल प्लान से एक सादा टेक्स्ट संदेश भेजेगा। SMS एन्क्रिप्टेड नहीं होता और आपके बिल में दिख सकता है। आगे बढ़ें?</string>
+    <string name="m_continue">आगे बढ़ें</string>
+    <string name="m_cancel">रद्द करें</string>
+    <string name="m_handed">आपके मोबाइल नेटवर्क को सौंपा गया</string>
+    <string name="m_delivered">नेटवर्क उस नंबर पर डिलीवरी बता रहा है</string>
+    <string name="m_failed">SMS भेजा नहीं जा सका</string>
+</resources>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Placeholder app name: change here only -->
+    <string name="app_name">Rasoi</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_favourites">Favourites</string>
+    <string name="nav_settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="featured">Featured</string>
+    <string name="categories">Categories</string>
+    <string name="search_hint">Search recipes or ingredients</string>
+    <string name="no_results">No recipes found</string>
+    <string name="no_favourites">Tap the heart on a recipe to save it here</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+    <string name="servings">Servings</string>
+    <string name="minutes">%1$d min</string>
+    <string name="serves">Serves %1$d</string>
+    <string name="fav_add">Add to favourites</string>
+    <string name="fav_remove">Remove from favourites</string>
+    <string name="decrease">Fewer servings</string>
+    <string name="increase">More servings</string>
+    <string name="settings_theme">Theme</string>
+    <string name="theme_system">System default</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="settings_units">Measures</string>
+    <string name="units_ml">Show spoons and cups as millilitres</string>
+    <string name="about">About</string>
+    <string name="about_text">A collection of everyday Indian home-cooking recipes. Works offline. No ads, no accounts.</string>
+
+    <!-- Report area -->
+    <string name="c_hint">A few words is enough</string>
+    <string name="c_counter">%1$d / %2$d</string>
+    <string name="c_continue">Continue</string>
+    <string name="quick_exit">Quick exit</string>
+    <string name="options">Options</string>
+    <string name="call_112">Call 112</string>
+    <string name="call_181">Call 181</string>
+    <string name="urgent_112">If it is urgent, call 112.</string>
+
+    <string name="s_title">Before you start</string>
+    <string name="s_loc_title">Share my location</string>
+    <string name="s_loc_body">Off by default. If on, your location is captured once, when you send, and attached to the report. It is never sent to the AI.</string>
+    <string name="s_loc_denied">Location permission is not granted, so no location will be attached.</string>
+    <string name="s_contact_title">Trusted contact</string>
+    <string name="s_contact_body">Only if you choose. Leave off if unsure.</string>
+    <string name="s_contact_name">Name</string>
+    <string name="s_contact_phone">Phone number</string>
+    <string name="s_contact_text">Message to your contact</string>
+    <string name="s_contact_loc">Include my location in that message</string>
+    <string name="s_contact_demo">In this demo build, contact notification is simulated. No real message is sent.</string>
+    <string name="s_save">Save and continue</string>
+    <string name="s_erase">Erase these choices</string>
+    <string name="s_close">Close</string>
+
+    <string name="k_title">Check before sending</string>
+    <string name="k_words">This will attempt to send: your words as typed</string>
+    <string name="k_words_loc">This will attempt to send: your words as typed, and your location</string>
+    <string name="k_to">To: %1$s</string>
+    <string name="k_ai">Your words are also processed by an AI model (%1$s) to prepare a summary for responders.</string>
+    <string name="k_contact_sim">Simulated: a message to your trusted contact (not really sent in this build)</string>
+    <string name="k_contact_real">Also: a text message from your phone to %1$s</string>
+    <string name="k_no_guarantee">Sending does not guarantee that anyone receives it or that help will come. If it is urgent, call 112.</string>
+    <string name="k_send">Send</string>
+    <string name="k_edit">Edit</string>
+
+    <string name="t_chip">SIMULATION</string>
+    <string name="t_sending">Sending… (attempt %1$d)</string>
+    <string name="t_sent">Submitted to the demo system</string>
+    <string name="t_received">Simulated: Received</string>
+    <string name="t_ack">Simulated: Acknowledged</string>
+    <string name="t_pending">Not confirmed. If it is urgent, call 112.</string>
+    <string name="t_failed">Sending failed. If it is urgent, call 112.</string>
+    <string name="t_retry">Try again</string>
+    <string name="t_loc_yes">Location was attached</string>
+    <string name="t_loc_no">Location was not attached</string>
+    <string name="t_contact_sim">Simulated: your trusted contact would be notified. No message was sent.</string>
+    <string name="t_contact_net">The text message to your trusted contact was handed to your mobile network.</string>
+    <string name="t_contact_fail">The text message to your trusted contact could not be sent.</string>
+    <string name="t_interrupted">This was interrupted. If it is urgent, call 112.</string>
+
+    <string name="m_offer">Send by SMS instead</string>
+    <string name="m_not_configured">SMS backup is not configured</string>
+    <string name="m_confirm_title">Send by SMS?</string>
+    <string name="m_confirm_body">Your phone will send a plain text message through your mobile plan. SMS is not encrypted and may show in your bill. Continue?</string>
+    <string name="m_continue">Continue</string>
+    <string name="m_cancel">Cancel</string>
+    <string name="m_handed">Handed to your mobile network</string>
+    <string name="m_delivered">Network reports delivery to the number</string>
+    <string name="m_failed">The SMS could not be sent</string>
+</resources>
