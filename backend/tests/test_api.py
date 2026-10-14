@@ -81,6 +81,13 @@ def test_strict_validation(raw):
         ai.validate(raw)
 
 
+def test_empty_unclear_is_valid_but_empty_high_is_not():
+    d = ai.validate('{"summary":"","urgency_category":"UNCLEAR","rationale":""}')
+    assert d["urgency_category"] == "UNCLEAR" and d["summary"] and d["rationale"]
+    with pytest.raises(ai.AIError):
+        ai.validate('{"summary":"","urgency_category":"CRITICAL","rationale":""}')
+
+
 def test_ai_retries_once(client, auth, monkeypatch):
     monkeypatch.setenv("AI_MODE", "ollama")
     calls = []

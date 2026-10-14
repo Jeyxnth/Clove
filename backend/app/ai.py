@@ -59,7 +59,13 @@ def validate(raw: str) -> dict:
         raise AIError("wrong keys")
     if d["urgency_category"] not in CATEGORIES:
         raise AIError("bad category")
-    if not all(isinstance(d[k], str) and d[k].strip() for k in ("summary", "rationale")):
+    if not all(isinstance(d[k], str) for k in ("summary", "rationale")):
+        raise AIError("bad text fields")
+    if d["urgency_category"] == "UNCLEAR":
+        # A model that finds nothing to summarise often returns empty strings; that is a valid answer.
+        d["summary"] = d["summary"].strip() or "The text does not describe a situation."
+        d["rationale"] = d["rationale"].strip() or "No specific words in the text support a category."
+    elif not (d["summary"].strip() and d["rationale"].strip()):
         raise AIError("bad text fields")
     return d
 
