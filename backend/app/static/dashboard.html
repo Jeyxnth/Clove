@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Responder dashboard (SIMULATION)</title>
+<style>
+body{font:14px system-ui,sans-serif;margin:0;color:#222}
+#banner{background:#b00020;color:#fff;padding:8px 12px;font-weight:600;position:sticky;top:0}
+main{padding:12px}table{border-collapse:collapse;width:100%}
+th,td{border:1px solid #ccc;padding:6px;vertical-align:top;text-align:left}
+.msg{white-space:pre-wrap;font-weight:600}.tag{font-size:11px;color:#555}
+.CRITICAL{background:#f8d7da}.HIGH{background:#ffe5d0}.MODERATE{background:#fff3cd}
+.UNCLEAR{background:#e2e3e5}
+</style></head><body>
+<div id="banner">SIMULATION: fictional demo data. Not connected to any real service.</div>
+<main>
+<form id="login"><input id="pw" type="password" placeholder="Demo password" autocomplete="off"> <button>Log in</button> <span id="err"></span></form>
+<div id="app" hidden>
+<p><button id="seed">Load 5 synthetic reports</button> <button id="reset">Delete all</button></p>
+<table><thead><tr><th>Time</th><th>Original message</th><th>AI summary <span class="tag">(AI-generated)</span></th>
+<th>Category <span class="tag">(advisory)</span></th><th>Rationale</th><th>Location</th><th>AI status</th><th>Delivery</th><th>Actions</th></tr></thead>
+<tbody id="rows"></tbody></table></div>
+</main>
+<script>
+let token = null;
+const api = (path, method = "GET", body) => fetch(path, {method,
+  headers: {"Content-Type": "application/json", ...(token ? {Authorization: "Bearer " + token} : {})},
+  body: body ? JSON.stringify(body) : undefined});
+
+document.getElementById("login").onsubmit = async e => {
+  e.preventDefault();
+  const r = await api("/dashboard/login", "POST", {password: document.getElementById("pw").value});
+  if (!r.ok) { document.getElementById("err").textContent = "Wrong password"; return; }
+  token = (await r.json()).token;
+  document.getElementById("login").hidden = true;
+  document.getElementById("app").hidden = false;
+  refresh(); setInterval(refresh, 3000);
+};
+
+function cell(tr, text, cls) { const td = tr.insertCell(); td.textContent = text ?? ""; if (cls) td.className = cls; return td; }
+
+async function act(path, method, body) { await api(path, method, body); refresh(); }
+
+async function refresh() {
+  const r = await api("/dashboard/reports");
+  if (!r.ok) return;
+  const tb = document.getElementById("rows");
+  tb.replaceChildren();
+  for (const x of await r.json()) {
+    const tr = tb.insertRow();
+    cell(tr, new Date(x.created_at).toLocaleString());
+    cell(tr, x.original_message, "msg");   // textContent only: never HTML
+    cell(tr, x.ai_summary ?? "(none)");
+    cell(tr, x.urgency_category ?? "-", x.urgency_category || "");
+    cell(tr, x.rationale ?? "");
+    cell(tr, x.location ? `${x.location.latitude}, ${x.location.longitude} (±${x.location.accuracy_m ?? "?"} m)` : "");
+    cell(tr, x.ai_status);
+    cell(tr, x.delivery_status);
+    const td = tr.insertCell();
+    for (const [label, fn] of [
+      ["Mark received (simulated)", () => act(`/dashboard/reports/${x.id}/mark`, "POST", {status: "SIMULATED_RECEIVED"})],
+      ["Mark acknowledged (simulated)", () => act(`/dashboard/reports/${x.id}/mark`, "POST", {status: "SIMULATED_ACKNOWLEDGED"})],
+      ["Delete", () => act(`/dashboard/reports/${x.id}`, "DELETE")]]) {
+      const b = document.createElement("button"); b.textContent = label; b.onclick = fn; td.append(b, " ");
+    }
+  }
+}
+document.getElementById("seed").onclick = () => act("/dashboard/seed", "POST");
+document.getElementById("reset").onclick = () => confirm("Delete all demo reports?") && act("/dashboard/reset-all", "POST");
+</script></body></html>
